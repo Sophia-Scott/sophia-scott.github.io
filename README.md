@@ -6,7 +6,7 @@ Description
 ## Education
 
 ### Bachelor's Degree  in xxxxxx
-[Harvard University](https://www.universitywebsite.com](https://college.harvard.edu/)))  
+[Harvard University](https://college.harvard.edu)
 *Graduated: 20xx*
 
 - Relevant Coursework: Class x, Class x, Class x
