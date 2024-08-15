@@ -19,7 +19,8 @@ Secondary Field in xxxxxx
 
 <details>
   <summary>Click to expand</summary>
-  <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+  <p>
+    This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
 </details>
 
 ---
