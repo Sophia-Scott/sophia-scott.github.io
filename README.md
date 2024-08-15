@@ -4,8 +4,9 @@ Site Description
 
 ## Education
 
-### Bachelor's Degree  in xxxxxx
-[Harvard University](https://college.harvard.edu)
+### [Harvard University](https://college.harvard.edu)
+Bachelor's Degree in xxxxxx
+Secondary Field in xxxxxx
 *Graduated: 20xx*
 
 - Relevant Coursework: Class x, Class x, Class x
