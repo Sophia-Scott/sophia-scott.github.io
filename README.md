@@ -5,11 +5,11 @@ Description
 
 ## Education
 
-### Bachelor of Science in Computer Science
-[Harvard University]([https://www.universitywebsite.com](https://college.harvard.edu/))  
-*Graduated: 2025*
+### Bachelor's Degree  in xxxxxx
+[Harvard University](https://www.universitywebsite.com](https://college.harvard.edu/)))  
+*Graduated: 20xx*
 
-- Relevant Coursework: Class, Class, Class
+- Relevant Coursework: Class x, Class x, Class x
 
 ---
 
