@@ -6,14 +6,16 @@ Site Description
 
 ### [Harvard University](https://college.harvard.edu)
 Bachelor's Degree in xxxxxx
+
 Secondary Field in xxxxxx
+
 *Graduated: 20xx*
 
 - Relevant Coursework: Class x, Class x, Class x
 
 ---
 
-## Awards
+## Awards and Honors
 
 <details>
   <summary>Click to expand</summary>
