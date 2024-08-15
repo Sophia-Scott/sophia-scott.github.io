@@ -1,5 +1,4 @@
-# Name
-Description
+Site Description
 
 ---
 
@@ -10,6 +9,16 @@ Description
 *Graduated: 20xx*
 
 - Relevant Coursework: Class x, Class x, Class x
+
+---
+
+## Awards
+
+<details>
+  <summary>Click to expand</summary>
+  <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+</details>
+
 
 ---
 
