@@ -1,4 +1,4 @@
-Site Description
+## Site Menu
 
 <nav>
   <ul>
@@ -13,7 +13,7 @@ Site Description
 
 ---
 
-## Education {#education}
+## Education <a id="education"></a>
 
 ### [Harvard University](https://college.harvard.edu)
 Bachelor's Degree in xxxxxx
@@ -26,7 +26,7 @@ Secondary Field in xxxxxx
 
 ---
 
-## Awards and Honors {#awards}
+## Awards and Honors <a id="awards"></a>
 
 <details>
   <summary>Click to expand</summary>
@@ -37,7 +37,7 @@ Secondary Field in xxxxxx
 
 ---
 
-## Fellowships and Grants {#fellowships}
+## Fellowships and Grants <a id="fellowships"></a>
 
 <details>
   <summary>Click to expand</summary>
@@ -48,7 +48,7 @@ Secondary Field in xxxxxx
 
 ---
 
-## Selected Publications {#publications}
+## Selected Publications <a id="publications"></a>
 
 <details>
   <summary>Click to expand</summary>
@@ -59,7 +59,7 @@ Secondary Field in xxxxxx
 
 ---
 
-## Employment and Internships {#employment}
+## Employment and Internships <a id="employment"></a>
 
 <details>
   <summary>Click to expand</summary>
@@ -70,7 +70,7 @@ Secondary Field in xxxxxx
 
 ---
 
-## Contact {#contact}
+## Contact <a id="contact"></a>
 
 Feel free to reach out to me through the following channels:
 
