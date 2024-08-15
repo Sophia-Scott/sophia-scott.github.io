@@ -1,8 +1,19 @@
 Site Description
 
+<nav>
+  <ul>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#awards">Awards and Honors</a></li>
+    <li><a href="#fellowships">Fellowships and Grants</a></li>
+    <li><a href="#publications">Selected Publications</a></li>
+    <li><a href="#employment">Employment and Internships</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
 ---
 
-## Education
+## Education {#education}
 
 ### [Harvard University](https://college.harvard.edu)
 Bachelor's Degree in xxxxxx
@@ -15,44 +26,51 @@ Secondary Field in xxxxxx
 
 ---
 
-## Awards and Honors
+## Awards and Honors {#awards}
 
 <details>
   <summary>Click to expand</summary>
   <p>
-    This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+    This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.
+  </p>
 </details>
 
 ---
 
-## Fellowships and Grants
+## Fellowships and Grants {#fellowships}
 
 <details>
   <summary>Click to expand</summary>
-  <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+  <p>
+    This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.
+  </p>
 </details>
 
 ---
 
-## Selected Publications
+## Selected Publications {#publications}
 
 <details>
   <summary>Click to expand</summary>
-  <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+  <p>
+    This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.
+  </p>
 </details>
 
 ---
 
-## Employment and Internships
+## Employment and Internships {#employment}
 
 <details>
   <summary>Click to expand</summary>
-  <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+  <p>
+    This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.
+  </p>
 </details>
 
 ---
 
-## Contact
+## Contact {#contact}
 
 Feel free to reach out to me through the following channels:
 
