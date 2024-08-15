@@ -19,6 +19,32 @@ Site Description
   <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
 </details>
 
+---
+
+## Fellowships and Grants
+
+<details>
+  <summary>Click to expand</summary>
+  <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+</details>
+
+---
+
+## Selected Publications
+
+<details>
+  <summary>Click to expand</summary>
+  <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+</details>
+
+---
+
+## Employment and Internships
+
+<details>
+  <summary>Click to expand</summary>
+  <p>This is the content that will be revealed when you click the summary above. You can include text, images, or other HTML elements here.</p>
+</details>
 
 ---
 
